@@ -1,0 +1,7 @@
+.cell {
+	text-align: center;
+	vertical-align: middle;
+	font-size: xx-large;
+	border: 2px solid transparent;
+	cursor: pointer;
+}
